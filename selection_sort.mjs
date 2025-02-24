@@ -23,3 +23,7 @@ SelectionSort(arr);
 
 console.log('===== 정렬 후 =====');
 console.log(arr);
+
+// 선택정렬 시간 복잡도 : O(n2)
+// 장점: 이해와 구현이 간단함
+// 단점: 성능이 좋지 않음
