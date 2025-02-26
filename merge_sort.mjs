@@ -49,3 +49,7 @@ MergeSort(arr, 0, arr.length - 1);
 
 console.log('===== 정렬 후 =====');
 console.log(arr);
+
+// 병합정렬 성능 - O(logn)
+// 장점 : 성능이 좋음
+// 단점 : 이해와 구현이 어려움
